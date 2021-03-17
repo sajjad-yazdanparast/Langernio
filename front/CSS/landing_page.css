@@ -18,6 +18,19 @@
     height: 40px;
 }
 
+.full-height {
+    min-height: 100vh;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(66,139,119);
+    color: black;
+    text-align: center;
+}
+
 @font-face {
     font-family: "calibri";
     src: url("..//assets//Calibri Regular.ttf");
